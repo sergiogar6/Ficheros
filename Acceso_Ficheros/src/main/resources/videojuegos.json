@@ -1,0 +1,40 @@
+[
+  {
+    "nombre": "Halo Infinite",
+    "plataforma": "Xbox",
+    "precio": 59.99,
+    "disponible": true,
+    "listaGeneros": [
+      "Accion",
+      "Shooter"
+    ]
+  },
+  {
+    "nombre": "Forza Horizon 5",
+    "plataforma": "Xbox",
+    "precio": 49.99,
+    "disponible": true,
+    "listaGeneros": [
+      "Carreras"
+    ]
+  },
+  {
+    "nombre": "Gears 5",
+    "plataforma": "Xbox",
+    "precio": 19.99,
+    "disponible": false,
+    "listaGeneros": [
+      "Accion",
+      "Aventura"
+    ]
+  },
+  {
+    "nombre": "Spider-Man 2",
+    "plataforma": "PS5",
+    "precio": 69.99,
+    "disponible": true,
+    "listaGeneros": [
+      "Accion"
+    ]
+  }
+]
